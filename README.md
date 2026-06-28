@@ -3,10 +3,6 @@
 ## Project Overview
 Performed manual testing of the Microsoft Calculator application.
 
-## Application Under Test
-Microsoft Calculator
-Source: https://github.com/microsoft/calculator
-
 ## Modules Tested
 - Addition
 - Subtraction
